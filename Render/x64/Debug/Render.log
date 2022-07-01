@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\Pessoal\CG\Render\Render\main.cpp(42,39): warning C4305: 'argumento': truncamento de 'double' para 'GLclampf'
+  Render.vcxproj -> D:\Pessoal\CG\Render\x64\Debug\Render.exe
